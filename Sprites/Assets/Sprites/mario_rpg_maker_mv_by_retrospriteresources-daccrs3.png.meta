@@ -1,0 +1,3660 @@
+fileFormatVersion: 2
+guid: bea86d1a8a97181469b29b519d81bb42
+timeCreated: 1501139282
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_0
+    21300002: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_1
+    21300004: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_2
+    21300006: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_3
+    21300008: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_4
+    21300010: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_5
+    21300012: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_6
+    21300014: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_7
+    21300016: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_8
+    21300018: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_9
+    21300020: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_10
+    21300022: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_11
+    21300024: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_12
+    21300026: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_13
+    21300028: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_14
+    21300030: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_15
+    21300032: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_16
+    21300034: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_17
+    21300036: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_18
+    21300038: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_19
+    21300040: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_20
+    21300042: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_21
+    21300044: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_22
+    21300046: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_23
+    21300048: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_24
+    21300050: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_25
+    21300052: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_26
+    21300054: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_27
+    21300056: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_28
+    21300058: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_29
+    21300060: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_30
+    21300062: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_31
+    21300064: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_32
+    21300066: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_33
+    21300068: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_34
+    21300070: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_35
+    21300072: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_36
+    21300074: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_37
+    21300076: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_38
+    21300078: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_39
+    21300080: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_40
+    21300082: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_41
+    21300084: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_42
+    21300086: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_43
+    21300088: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_44
+    21300090: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_45
+    21300092: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_46
+    21300094: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_47
+    21300096: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_48
+    21300098: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_49
+    21300100: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_50
+    21300102: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_51
+    21300104: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_52
+    21300106: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_53
+    21300108: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_54
+    21300110: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_55
+    21300112: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_56
+    21300114: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_57
+    21300116: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_58
+    21300118: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_59
+    21300120: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_60
+    21300122: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_61
+    21300124: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_62
+    21300126: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_63
+    21300128: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_64
+    21300130: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_65
+    21300132: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_66
+    21300134: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_67
+    21300136: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_68
+    21300138: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_69
+    21300140: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_70
+    21300142: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_71
+    21300144: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_72
+    21300146: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_73
+    21300148: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_74
+    21300150: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_75
+    21300152: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_76
+    21300154: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_77
+    21300156: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_78
+    21300158: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_79
+    21300160: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_80
+    21300162: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_81
+    21300164: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_82
+    21300166: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_83
+    21300168: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_84
+    21300170: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_85
+    21300172: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_86
+    21300174: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_87
+    21300176: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_88
+    21300178: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_89
+    21300180: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_90
+    21300182: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_91
+    21300184: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_92
+    21300186: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_93
+    21300188: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_94
+    21300190: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_95
+    21300192: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_96
+    21300194: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_97
+    21300196: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_98
+    21300198: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_99
+    21300200: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_100
+    21300202: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_101
+    21300204: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_102
+    21300206: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_103
+    21300208: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_104
+    21300210: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_105
+    21300212: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_106
+    21300214: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_107
+    21300216: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_108
+    21300218: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_109
+    21300220: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_110
+    21300222: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_111
+    21300224: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_112
+    21300226: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_113
+    21300228: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_114
+    21300230: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_115
+    21300232: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_116
+    21300234: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_117
+    21300236: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_118
+    21300238: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_119
+    21300240: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_120
+    21300242: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_121
+    21300244: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_122
+    21300246: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_123
+    21300248: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_124
+    21300250: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_125
+    21300252: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_126
+    21300254: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_127
+    21300256: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_128
+    21300258: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_129
+    21300260: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_130
+    21300262: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_131
+    21300264: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_132
+    21300266: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_133
+    21300268: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_134
+    21300270: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_135
+    21300272: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_136
+    21300274: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_137
+    21300276: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_138
+    21300278: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_139
+    21300280: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_140
+    21300282: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_141
+    21300284: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_142
+    21300286: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_143
+    21300288: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_144
+    21300290: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_145
+    21300292: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_146
+    21300294: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_147
+    21300296: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_148
+    21300298: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_149
+    21300300: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_150
+    21300302: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_151
+    21300304: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_152
+    21300306: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_153
+    21300308: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_154
+    21300310: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_155
+    21300312: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_156
+    21300314: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_157
+    21300316: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_158
+    21300318: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_159
+    21300320: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_160
+    21300322: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_161
+    21300324: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_162
+    21300326: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_163
+    21300328: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_164
+    21300330: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_165
+    21300332: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_166
+    21300334: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_167
+    21300336: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_168
+    21300338: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_169
+    21300340: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_170
+    21300342: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_171
+    21300344: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_172
+    21300346: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_173
+    21300348: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_174
+    21300350: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_175
+    21300352: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_176
+    21300354: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_177
+    21300356: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_178
+    21300358: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_179
+    21300360: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_180
+    21300362: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_181
+    21300364: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_182
+    21300366: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_183
+    21300368: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_184
+    21300370: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_185
+    21300372: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_186
+    21300374: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_187
+    21300376: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_188
+    21300378: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_189
+    21300380: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_190
+    21300382: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_191
+    21300384: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_192
+    21300386: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_193
+    21300388: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_194
+    21300390: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_195
+    21300392: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_196
+    21300394: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_197
+    21300396: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_198
+    21300398: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_199
+    21300400: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_200
+    21300402: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_201
+    21300404: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_202
+    21300406: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_203
+    21300408: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_204
+    21300410: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_205
+    21300412: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_206
+    21300414: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_207
+    21300416: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_208
+    21300418: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_209
+    21300420: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_210
+    21300422: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_211
+    21300424: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_212
+    21300426: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_213
+    21300428: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_214
+    21300430: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_215
+    21300432: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_216
+    21300434: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_217
+    21300436: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_218
+    21300438: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_219
+    21300440: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_220
+    21300442: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_221
+    21300444: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_222
+    21300446: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_223
+    21300448: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_224
+    21300450: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_225
+    21300452: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_226
+    21300454: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_227
+    21300456: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_228
+    21300458: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_229
+    21300460: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_230
+    21300462: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_231
+    21300464: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_232
+    21300466: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_233
+    21300468: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_234
+    21300470: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_235
+    21300472: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_236
+    21300474: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_237
+    21300476: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_238
+    21300478: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_239
+    21300480: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_240
+    21300482: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_241
+    21300484: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_242
+    21300486: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_243
+    21300488: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_244
+    21300490: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_245
+    21300492: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_246
+    21300494: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_247
+    21300496: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_248
+    21300498: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_249
+    21300500: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_250
+    21300502: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_251
+    21300504: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_252
+    21300506: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_253
+    21300508: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_254
+    21300510: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_255
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_37
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_49
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_53
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_54
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_57
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_58
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_59
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_69
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_70
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_71
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_74
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_77
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_78
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_79
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_81
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_82
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_83
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_89
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_91
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_92
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_93
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_95
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_97
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_98
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_99
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_101
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_102
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_103
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_104
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_106
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_107
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_109
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_110
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_111
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_113
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_114
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_115
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_117
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_118
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_119
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_121
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_122
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_124
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_125
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_126
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_127
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_128
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_129
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_131
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_132
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_133
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_134
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_135
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_137
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_138
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_139
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_141
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_142
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_143
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_144
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_145
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_146
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_147
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_148
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_149
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_150
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_151
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_152
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_153
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_154
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_155
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_156
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_157
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_158
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_159
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_161
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_162
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_163
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_164
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_165
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_166
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_167
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_168
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_169
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_170
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_171
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_172
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_173
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_174
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_175
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_176
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_177
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_178
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_179
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_181
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_182
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_183
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_184
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_185
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_186
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_187
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_188
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_189
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_190
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_191
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_192
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_193
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_194
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_195
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_196
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_197
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_198
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_200
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_201
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_202
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_203
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_204
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_205
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_206
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_207
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_208
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_209
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_210
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_211
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_212
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_213
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_214
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_215
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_216
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_217
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_218
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_219
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_220
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_221
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_222
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_223
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_224
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_225
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_226
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_227
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_228
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_229
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_230
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_231
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_232
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_233
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_234
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_235
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_236
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_238
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_239
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_240
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_241
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_242
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_243
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_244
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_245
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_246
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_247
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_248
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_249
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_250
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_251
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_252
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_253
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_254
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_rpg_maker_mv_by_retrospriteresources-daccrs3_255
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
