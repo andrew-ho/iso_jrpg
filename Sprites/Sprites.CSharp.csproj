@@ -102,6 +102,7 @@
     <Compile Include="Assets\Scripts\Inventory\Item.cs" />
     <Compile Include="Assets\Scripts\Inventory\MouseHover.cs" />
     <Compile Include="Assets\Scripts\Inventory\Usable.cs" />
+    <Compile Include="Assets\Scripts\Menu\Menu.cs" />
     <Compile Include="Assets\Scripts\Movement\CameraFacingBill.cs" />
     <Compile Include="Assets\Scripts\Movement\CameraFacingBillboard.cs" />
     <Compile Include="Assets\Scripts\Movement\CameraFollow.cs" />

@@ -11,9 +11,13 @@ public class PlayerController : MonoBehaviour {
     Collider collider;
     Animator anim;
 
+    GameObject gameManager;
     GameObject checker;
+    GameObject menu;
 
     void Start() {
+        gameManager = GameObject.Find("GameManager");
+        Debug.Log(menu);
         checker = GameObject.Find("Checker");
         forward = Camera.main.transform.forward;
         forward.y = 0;
@@ -41,6 +45,8 @@ public class PlayerController : MonoBehaviour {
             anim.SetBool("WalkLeft", false);
             anim.SetBool("idle", true);
         }
+        
+
     }
     void Move()
     {

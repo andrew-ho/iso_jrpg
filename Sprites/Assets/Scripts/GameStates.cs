@@ -7,7 +7,7 @@ public class GameStates : MonoBehaviour {
     Rigidbody rb;
     GameObject player;
 
-    GameState state;
+    public GameState state;
     public GameObject BattleManager;
     private bool created = false;
 
@@ -20,17 +20,22 @@ public class GameStates : MonoBehaviour {
     public enum GameState
     {
         WORLDSTATE,
-        BATTLESTATE
+        BATTLESTATE,
+        MENUSTATE,
+        CHATSTATE
     }
 
     void randomEncounter(Rigidbody player)
     {
-        if (player.velocity.magnitude > 0)
+        if (state == GameState.WORLDSTATE)
         {
-            if (Random.Range(0, 10000) < 10)
+            if (player.velocity.magnitude > 0)
             {
-                Debug.Log("Attacked!");
-                state = GameState.BATTLESTATE;
+                if (Random.Range(0, 10000) < 10)
+                {
+                    Debug.Log("Attacked!");
+                    state = GameState.BATTLESTATE;
+                }
             }
         }
     }
