@@ -5,6 +5,8 @@ using UnityEngine;
 public class DialogueAtStart : MonoBehaviour {
     public GameObject dialogueManager;
     public GameObject player;
+    public GameObject gameManager;
+
     // Use this for initialization
     void Start () {
         player.GetComponentInParent<PlayerController>().enabled = false;

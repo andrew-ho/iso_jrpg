@@ -2,12 +2,23 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[System.Serializable]
-public class Item {
+
+public abstract class Item {
     public string name;
     public int quantity;
 
     public string description;
 
+    public Item(string name, string description, int quantity)
+    {
+        this.name = name;
+        this.description = description;
+        this.quantity = quantity;
+    }
+
+   public Item()
+    {
+
+    }
 	
 }

@@ -9,6 +9,7 @@ public class DialogueManager : MonoBehaviour {
     public Text dialogueText;
     public Animator animator;
     public GameObject player;
+    public GameObject states;
     public bool trigger = true;
     public float timeStamp = .5f;
 
@@ -20,6 +21,8 @@ public class DialogueManager : MonoBehaviour {
 	
     public void startDialogue(Dialogue dialogue)
     {
+        player.GetComponent<PlayerController>().enabled = false;
+        states.GetComponent<GameStates>().state = GameStates.GameState.CHATSTATE;
         animator.SetBool("isOpen", true);
         sentences.Clear();
         nameText.text = dialogue.name;
@@ -58,6 +61,7 @@ public class DialogueManager : MonoBehaviour {
         animator.SetBool("isOpen", false);
         trigger = false;
         StartCoroutine(delayEnumerator(timeStamp));
+        states.GetComponent<GameStates>().state = GameStates.GameState.WORLDSTATE;
     }
 
     void FixedUpdate()
