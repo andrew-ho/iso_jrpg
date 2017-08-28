@@ -34,8 +34,8 @@ public class BattleStateMachine : MonoBehaviour {
     public List<GameObject> heroesToManage = new List<GameObject>();
     private HandleTurn heroChoice;
 
-    public GameObject ActionList;
-    public GameObject gameManager;
+    GameObject ActionList;
+    GameObject gameManager;
 
 
     // Use this for initialization
@@ -121,7 +121,9 @@ public class BattleStateMachine : MonoBehaviour {
 
                 break;
             case (performAction.WIN):
-
+                Destroy(GameObject.FindGameObjectWithTag("Dead enemy"));
+                Destroy(GameObject.Find("BattleManager(Clone)"));
+                gameManager.GetComponent<GameStates>().state = GameStates.GameState.WORLDSTATE;
                 break;
         }
 

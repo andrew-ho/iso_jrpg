@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
     [SerializeField]
-    float speed = 1f;
+    public float speed;
     Rigidbody rb;
     GameObject player;
     Vector3 forward, right;
@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour {
     void Start() {
         gameManager = GameObject.Find("GameManager");
         Debug.Log(menu);
-        checker = GameObject.Find("Checker");
+        
         forward = Camera.main.transform.forward;
         forward.y = 0;
         forward = Vector3.Normalize(forward);
@@ -74,7 +74,6 @@ public class PlayerController : MonoBehaviour {
         Debug.Log("Horizontal Key: " + Input.GetAxis("HorizontalKey"));
         Vector3 heading = Vector3.Normalize(rightMovement + upMovement);
         transform.forward = heading;
-        checker.transform.position = player.transform.position;
         
         if (collider)
         {
@@ -82,7 +81,8 @@ public class PlayerController : MonoBehaviour {
         }
         else
         {
-            rb.AddForce((upMovement + rightMovement) * speed, ForceMode.VelocityChange);
+            //rb.AddForce((upMovement + rightMovement) * speed, ForceMode.VelocityChange);
+            rb.MovePosition(player.transform.position + (upMovement + rightMovement));
         }
         if (rb.velocity.magnitude > 2)
         {

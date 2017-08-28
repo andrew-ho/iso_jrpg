@@ -12,6 +12,7 @@ public class HeroStateMachine : MonoBehaviour {
 
     //dead
     private bool alive = true;
+    private bool savePos = false;
 
     public enum TurnState
     {
@@ -41,13 +42,17 @@ public class HeroStateMachine : MonoBehaviour {
         cur_cooldown = Random.Range(0, 2.5f);
         currentState = TurnState.PROCESSING;
         startPos = transform.position;
-        
     }
 
     // Update is called once per frame
     void Update() {
         if (battleStarted)
         {
+            if (!savePos)
+            {
+                startPos = transform.position;
+                savePos = true;
+            }
             battle = GameObject.Find("BattleManager(Clone)").GetComponent<BattleStateMachine>();
         }
         switch (currentState)
@@ -104,6 +109,7 @@ public class HeroStateMachine : MonoBehaviour {
                     battle.battleState = BattleStateMachine.performAction.CHECKALIVE;
                     alive = false;
                     battleStarted = false;
+                    savePos = false;
                 }
                 break;
         }
